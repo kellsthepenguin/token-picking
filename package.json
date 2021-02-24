@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "token-picking",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
